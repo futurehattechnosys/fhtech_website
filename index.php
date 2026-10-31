@@ -1,0 +1,1458 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <script>
+    document.documentElement.setAttribute('data-theme', 'light');
+    try { localStorage.removeItem('fhtech_theme'); } catch(e) {}
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary SEO Meta Tags -->
+  <title>Futurehat Technosys | Turning Ideas Into Digital Solutions | Web, Software, Cloud & AI</title>
+  <meta name="title" content="Futurehat Technosys | Turning Ideas Into Digital Solutions | Web, Software, Cloud & AI">
+  <meta name="description" content="Futurehat Technosys is a technology partner in Surat, Gujarat. We build high-performance websites, custom software (CRM/ERP), web apps, cloud hosting, and AI solutions. Creators of Auctionhat.">
+  <meta name="keywords" content="Futurehat Technosys, fhtech, website development surat, software development company gujarat, web design company surat, custom software development india, cloud solutions surat, AI process automation, Auctionhat player auction software">
+  <meta name="author" content="Futurehat Technosys">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://fhtech.in/">
+
+  <!-- Geo-Targeting & Local SEO (Surat, Gujarat, India) -->
+  <meta name="geo.region" content="IN-GJ">
+  <meta name="geo.placename" content="Surat">
+  <meta name="geo.position" content="21.1702;72.8311">
+  <meta name="ICBM" content="21.1702, 72.8311">
+  <meta name="theme-color" content="#280888">
+
+  <!-- Open Graph / Facebook / WhatsApp -->
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Futurehat Technosys">
+  <meta property="og:title" content="Futurehat Technosys | Turning Ideas Into Digital Solutions">
+  <meta property="og:description" content="Your Technology Partner for Web, Software, Cloud & AI Solutions in Surat, Gujarat, India. Creators of Auctionhat.">
+  <meta property="og:url" content="https://fhtech.in/">
+  <meta property="og:image" content="https://fhtech.in/assets/images/logo-color.png">
+  <meta property="og:image:secure_url" content="https://fhtech.in/assets/images/logo-color.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Futurehat Technosys - Technology & Digital Solutions">
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Futurehat Technosys | Turning Ideas Into Digital Solutions">
+  <meta name="twitter:description" content="Custom software, web applications, cloud solutions, and AI automation based in Surat, Gujarat, India.">
+  <meta name="twitter:image" content="https://fhtech.in/assets/images/logo-color.png">
+
+  <!-- Favicons & Web Manifest -->
+  <link rel="icon" type="image/png" sizes="64x64" href="assets/images/favicon.png?v=2">
+  <link rel="apple-touch-icon" href="assets/images/favicon.png?v=2">
+  <link rel="manifest" href="site.webmanifest">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- JSON-LD Structured Data (Schema.org) for Google Rich Snippets -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LocalBusiness",
+        "@id": "https://fhtech.in/#organization",
+        "name": "Futurehat Technosys",
+        "legalName": "Futurehat Technosys",
+        "url": "https://fhtech.in/",
+        "logo": "https://fhtech.in/assets/images/logo-color.png",
+        "image": "https://fhtech.in/assets/images/logo-color.png",
+        "description": "Futurehat Technosys is a technology and software development company focused on creating innovative, reliable and result-oriented digital solutions including custom websites, web apps, cloud platforms, and AI automation.",
+        "telephone": "+919409686228",
+        "email": "futurehattechnosys@gmail.com",
+        "priceRange": "$$",
+        "slogan": "Design. Develop. Innovate. Grow.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Surat",
+          "addressRegion": "Gujarat",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "21.1702",
+          "longitude": "72.8311"
+        },
+        "areaServed": [
+          { "@type": "City", "name": "Surat" },
+          { "@type": "State", "name": "Gujarat" },
+          { "@type": "Country", "name": "India" }
+        ],
+        "sameAs": [
+          "https://auctionhat.com"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Technology Services",
+          "itemListElement": [
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Website Development" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Website Design & UI/UX" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Custom Software Development (CRM/ERP)" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Web Applications & API Development" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Cloud Solutions & Hosting Management" } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AI Integration & Business Process Automation" } }
+          ]
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://fhtech.in/#website",
+        "url": "https://fhtech.in/",
+        "name": "Futurehat Technosys",
+        "description": "Turning Ideas Into Digital Solutions | Web, Software, Cloud & AI Solutions",
+        "publisher": { "@id": "https://fhtech.in/#organization" }
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://fhtech.in/#auctionhat",
+        "name": "Auctionhat – The Player Auction",
+        "url": "https://auctionhat.com",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Cloud / Web",
+        "description": "Cloud-based player auction software built for sports tournaments and leagues to manage player registrations, live bidding, and team budgeting for Cricket, Football, Volleyball, Kabaddi, and Kho-Kho.",
+        "creator": { "@id": "https://fhtech.in/#organization" }
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://fhtech.in/#invoicehat",
+        "name": "Invoicehat – Smart Invoicing & Billing",
+        "url": "https://invoicehat.fhtech.in/login",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Cloud / Web",
+        "description": "Cloud-based digital invoicing and billing software built for freelancers, agencies, and businesses to generate professional invoices, track payments, and manage client billing.",
+        "creator": { "@id": "https://fhtech.in/#organization" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What services does Futurehat Technosys provide?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Futurehat Technosys provides end-to-end digital services including custom website development, responsive UI/UX design, bespoke software development (CRM, ERP, inventory systems), web application engineering, cloud hosting setup, and AI process automation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where is Futurehat Technosys based and which regions do you serve?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Futurehat Technosys is based in Surat, Gujarat, India, and serves businesses, startups, healthcare institutions, and community organizations across Gujarat and all over India."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Auctionhat by Futurehat Technosys?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Auctionhat (auctionhat.com) is our flagship cloud-based player auction platform engineered for sports tournaments like Cricket, Football, Volleyball, and Kabaddi. It offers online player registrations, real-time live bidding, multi-screen tournament sync, and YouTube live broadcast overlays."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can I start a project with Futurehat Technosys?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can reach out through the consultation form on our website, connect directly on WhatsApp, or call +91 94096 86228. Our team will review your business requirements and provide a tailored technical proposal."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- ========================================================================
+       HEADER / NAVIGATION
+       ======================================================================== -->
+  <header class="header" id="mainHeader">
+    <div class="container nav-container">
+      <a href="#hero" class="logo-wrapper" id="brandLogo" aria-label="Futurehat Technosys Home">
+        <img src="assets/images/logo-color.png" alt="Futurehat Technosys Logo" class="brand-logo-img logo-light" id="mainBrandLogoLight" width="180" height="64">
+        <img src="assets/images/logo-white.png" alt="Futurehat Technosys Logo" class="brand-logo-img logo-dark" id="mainBrandLogoDark" width="180" height="64">
+      </a>
+
+      <!-- Desktop & Mobile Navigation Menu -->
+      <nav class="nav-menu" id="navMenu">
+        <a href="#hero" class="nav-link active" id="navHero">Home</a>
+        <a href="#about" class="nav-link" id="navAbout">About</a>
+        <a href="#services" class="nav-link" id="navServices">Services</a>
+        <a href="#portfolio" class="nav-link" id="navPortfolio">Portfolio</a>
+        <a href="#products" class="nav-link" id="navProduct">Products <span class="nav-pill">2 SaaS</span></a>
+        <a href="#why-us" class="nav-link" id="navWhyUs">Why Us</a>
+        <a href="#process" class="nav-link" id="navProcess">Process</a>
+        <a href="#contact" class="nav-link" id="navContact">Contact</a>
+      </nav>
+
+      <!-- Action Buttons -->
+      <div class="nav-actions">
+        <a href="#contact" class="btn btn-primary btn-sm" id="navCta">Start Project</a>
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle Navigation Menu" aria-expanded="false">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ======================================================================
+         HERO SECTION
+         ====================================================================== -->
+    <section class="hero" id="hero">
+      <div class="container">
+        <div class="hero-grid">
+          <div class="hero-content">
+            <div class="badge" id="heroBadge">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+                <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+              </svg>
+              Next-Gen Technology Partner & Solutions
+            </div>
+
+            <h1 class="hero-headline" id="mainHeadline">
+              We provide simple <mark class="handwritten-mark"><span class="handwritten-accent">solutions</span></mark> for <span class="gradient-text">software applications.</span>
+            </h1>
+
+            <div class="hero-subhead" id="heroSubhead">
+              Web Development • Custom Software • Cloud Applications • AI Automation
+            </div>
+
+            <p class="hero-description" id="heroDescription">
+              We specialize in cloud applications and digital engineering services such as building, designing, developing, and supporting modern software applications for businesses in Surat, Gujarat, across India, and worldwide.
+            </p>
+
+            <div class="hero-cta-group">
+              <a href="#contact" class="btn btn-primary btn-lg" id="heroStartProjectBtn">
+                <span>Start Your Project</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="5" y1="12" x2="19" y2="12"></line>
+                  <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+              </a>
+              <a href="#services" class="btn btn-secondary btn-lg" id="heroExploreServicesBtn">
+                <span>Explore Our Services</span>
+              </a>
+            </div>
+
+            <div class="hero-location-banner" id="heroLocationBanner">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                <circle cx="12" cy="10" r="3"></circle>
+              </svg>
+              <span>Based in <strong>Surat, Gujarat, India</strong> | Serving Businesses Across India</span>
+            </div>
+          </div>
+
+          <!-- Hero Visual: Organic Blob Masked Developer & Workstation Photo with Floating Badges -->
+          <div class="hero-visual">
+            <div class="hero-image-showcase">
+              <!-- Soft Ambient Glow Behind Photo -->
+              <div class="hero-image-glow"></div>
+
+              <!-- Masked Photo -->
+              <div class="hero-photo-blob-container">
+                <img
+                  src="assets/images/hero-img.jpg"
+                  alt="Futurehat Technosys Software Engineering Solutions"
+                  class="hero-masked-photo"
+                  width="550"
+                  height="475"
+                  loading="eager"
+                />
+              </div>
+
+              <!-- Floating Glassmorphism Badge 1: Top Left -->
+              <div class="hero-float-pill float-top-left" id="topFloatBadge">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5d1eb1" stroke-width="2.5"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                <span>Design • Develop • Innovate</span>
+              </div>
+
+              <!-- Floating Glassmorphism Badge 2: Bottom Right -->
+              <div class="hero-float-card float-bottom-right" id="bottomFloatBadge">
+                <div class="float-card-icon">🚀</div>
+                <div class="float-card-text">
+                  <strong>Proprietary SaaS</strong>
+                  <span>Auctionhat & Invoicehat</span>
+                </div>
+              </div>
+
+              <!-- Floating Glassmorphism Badge 3: Bottom Left -->
+              <div class="hero-float-card float-bottom-left">
+                <div class="float-card-icon">☁️</div>
+                <div class="float-card-text">
+                  <strong>Cloud Native</strong>
+                  <span>AWS • Google Cloud • Azure</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         ABOUT SECTION
+         ====================================================================== -->
+    <section class="section about" id="about">
+      <div class="container">
+        <div class="about-grid">
+          <div class="about-text-content">
+            <div class="badge">About Futurehat Technosys</div>
+            <h2 class="section-title">
+              Building Digital Solutions for a <span class="gradient-text">Smarter Future</span>
+            </h2>
+            <p class="lead-text">
+              Futurehat Technosys is a technology and software development company focused on creating innovative, reliable and result-oriented digital solutions.
+            </p>
+            <p>
+              We combine technology, creativity and business understanding to develop solutions that simplify operations, improve productivity and help businesses grow.
+            </p>
+            
+            <div class="about-highlight-box">
+              <h4>Make technology work for your business.</h4>
+              <p>Whether you need a professional website, a customized business application, a complete software system or an AI-powered digital solution, we work with you from concept to completion.</p>
+            </div>
+
+            <p>
+              Our goal is simple: deliver scalable, secure, and modern digital ecosystems that turn manual operational friction into automated competitive advantages.
+            </p>
+          </div>
+
+          <!-- About Cloud & Architecture Visual Card -->
+          <div class="about-visual-column">
+            <div class="about-image-card">
+              <div class="about-card-badge">Cloud-Native Engineering</div>
+              <img src="assets/images/about-img-1.png" alt="Futurehat Cloud Architecture AWS Google Cloud Azure" class="about-feature-img" width="460" height="490" loading="lazy">
+              <div class="about-cloud-tags">
+                <span class="cloud-pill">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg>
+                  AWS Cloud
+                </span>
+                <span class="cloud-pill">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg>
+                  Google Cloud
+                </span>
+                <span class="cloud-pill">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg>
+                  Azure & DevOps
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 4 Key Pillars Grid -->
+        <div class="about-pillars-grid" style="margin-top: 3.5rem;">
+          <div class="pillar-card">
+            <div class="pillar-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="12" y1="8" x2="12" y2="12"></line>
+                <line x1="12" y1="16" x2="12.01" y2="16"></line>
+              </svg>
+            </div>
+            <h3 class="pillar-title">Concept to Completion</h3>
+            <p class="pillar-desc">Comprehensive handling of strategy, UI/UX design, database engineering, cloud deployment, and post-launch maintenance.</p>
+          </div>
+
+          <div class="pillar-card">
+            <div class="pillar-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                <polyline points="22 4 12 14.01 9 11.01"></polyline>
+              </svg>
+            </div>
+            <h3 class="pillar-title">Result-Oriented</h3>
+            <p class="pillar-desc">We develop digital solutions directly aligned with measurable business metrics, cost reduction, and sales conversion.</p>
+          </div>
+
+          <div class="pillar-card">
+            <div class="pillar-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                <line x1="8" y1="21" x2="16" y2="21"></line>
+                <line x1="12" y1="17" x2="12" y2="21"></line>
+              </svg>
+            </div>
+            <h3 class="pillar-title">Modern Architecture</h3>
+            <p class="pillar-desc">Leveraging modern web stacks, resilient APIs, and reactive database patterns designed for smooth scalability.</p>
+          </div>
+
+          <div class="pillar-card">
+            <div class="pillar-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                <circle cx="9" cy="7" r="4"></circle>
+                <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+              </svg>
+            </div>
+            <h3 class="pillar-title">Long-Term Partnership</h3>
+            <p class="pillar-desc">We stand by our clients with proactive support, performance monitoring, continuous feature upgrades, and advice.</p>
+          </div>
+        </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         SERVICES SECTION (6 CATEGORIES)
+         ====================================================================== -->
+    <section class="section services" id="services">
+      <div class="container">
+        <div class="section-header">
+          <div class="badge">Our Services</div>
+          <h2 class="section-title">
+            Complete Digital & Technology Solutions <span class="gradient-text">Under One Roof</span>
+          </h2>
+          <p class="section-subtitle">
+            From sleek corporate websites and high-performance applications to custom ERP systems, cloud infrastructures, and artificial intelligence.
+          </p>
+        </div>
+
+        <div class="services-grid">
+          <!-- 1. Website Development -->
+          <div class="service-card" id="service-website-dev">
+            <div class="service-header">
+              <div class="service-icon-box">
+                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                  <line x1="8" y1="21" x2="16" y2="21"></line>
+                  <line x1="12" y1="17" x2="12" y2="21"></line>
+                </svg>
+              </div>
+              <span class="service-num">01</span>
+            </div>
+            <h3 class="service-title">Website Development</h3>
+            <p class="service-desc">
+              Professional, responsive and high-performance websites designed to strengthen your online presence and grow your business.
+            </p>
+            <div class="service-list">
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Business & Corporate Websites</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Dynamic & CMS Websites</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>E-commerce Websites</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Custom Website Development</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Website Maintenance & Support</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 2. Website Design & UI/UX -->
+          <div class="service-card" id="service-ui-ux">
+            <div class="service-header">
+              <div class="service-icon-box">
+                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M12 19l7-7 3 3-7 7-3-3z"></path>
+                  <path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path>
+                  <path d="M2 2l7.586 7.586"></path>
+                  <circle cx="11" cy="11" r="2"></circle>
+                </svg>
+              </div>
+              <span class="service-num">02</span>
+            </div>
+            <h3 class="service-title">Website Design & UI/UX</h3>
+            <p class="service-desc">
+              Modern, attractive and user-friendly website designs that create a strong first impression and deliver a better user experience.
+            </p>
+            <div class="service-list">
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Creative Website Design</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>UI/UX Design & Prototyping</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Responsive & Mobile-Friendly Layouts</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Landing Page Design</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Website Redesign & Modernization</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 3. Custom Software Development -->
+          <div class="service-card" id="service-custom-software">
+            <div class="service-header">
+              <div class="service-icon-box">
+                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="16 18 22 12 16 6"></polyline>
+                  <polyline points="8 6 2 12 8 18"></polyline>
+                  <line x1="14" y1="4" x2="10" y2="20"></line>
+                </svg>
+              </div>
+              <span class="service-num">03</span>
+            </div>
+            <h3 class="service-title">Custom Software Development</h3>
+            <p class="service-desc">
+              Powerful software solutions developed around your business requirements and workflows to eliminate repetitive operational hurdles.
+            </p>
+            <div class="service-list">
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Business Management Software</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>CRM & ERP Solutions</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Management Dashboards</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Database Management Systems</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Custom Reporting & Automation</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 4. Application Development -->
+          <div class="service-card" id="service-app-dev">
+            <div class="service-header">
+              <div class="service-icon-box">
+                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect>
+                  <line x1="12" y1="18" x2="12.01" y2="18"></line>
+                </svg>
+              </div>
+              <span class="service-num">04</span>
+            </div>
+            <h3 class="service-title">Application Development</h3>
+            <p class="service-desc">
+              Smart web-based and mobile application solutions designed to simplify business processes and connect people across devices.
+            </p>
+            <div class="service-list">
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Web Applications</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Custom Business Applications</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Management Portals</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>API Development & Integration</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Application Maintenance</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 5. Cloud Solutions -->
+          <div class="service-card" id="service-cloud">
+            <div class="service-header">
+              <div class="service-icon-box">
+                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"></path>
+                </svg>
+              </div>
+              <span class="service-num">05</span>
+            </div>
+            <h3 class="service-title">Cloud Solutions</h3>
+            <p class="service-desc">
+              Modern cloud-based solutions that help businesses access their applications and information securely and efficiently from anywhere.
+            </p>
+            <div class="service-list">
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Cloud-Based Software</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Cloud Application Deployment</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Database & Server Management</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Application Hosting Support</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Performance & Scalability Solutions</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 6. AI & Automation Solutions -->
+          <div class="service-card" id="service-ai-automation">
+            <div class="service-header">
+              <div class="service-icon-box">
+                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M12 2a4 4 0 0 1 4 4v2a4 4 0 0 1-8 0V6a4 4 0 0 1 4-4z"></path>
+                  <path d="M18 14v4a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-4"></path>
+                  <line x1="12" y1="18" x2="12" y2="22"></line>
+                  <circle cx="12" cy="11" r="1"></circle>
+                </svg>
+              </div>
+              <span class="service-num">06</span>
+            </div>
+            <h3 class="service-title">AI & Automation Solutions</h3>
+            <p class="service-desc">
+              Bring intelligence and automated workflows into your business operations with modern artificial intelligence technologies.
+            </p>
+            <div class="service-list">
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>AI-Powered Applications</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>AI Integration & Model Customization</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Intelligent Chatbot Solutions</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Business Process Automation</span>
+              </div>
+              <div class="service-item">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Smart Data & Reporting Solutions</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         OUR SAAS PRODUCTS: AUCTIONHAT & INVOICEHAT
+         ====================================================================== -->
+    <section class="section product-spotlight" id="products">
+      <div id="product" style="position:relative; top:-80px; visibility:hidden;"></div>
+      <div class="container">
+        <!-- Products Section Header -->
+        <div class="section-header" style="margin-bottom: 3.5rem;">
+          <div class="badge">In-House SaaS Products</div>
+          <h2 class="section-title">
+            Proprietary Platforms Built by <span class="gradient-text">Futurehat</span>
+          </h2>
+          <p class="section-subtitle">
+            Beyond custom client development, we engineer and operate proprietary cloud software platforms designed for high performance, reliability, and real-world impact.
+          </p>
+        </div>
+
+        <!-- Dual Side-by-Side Compact Products Grid (Left: Auctionhat, Right: Invoicehat) -->
+        <div class="products-dual-grid">
+          <!-- LEFT CARD: AUCTIONHAT (FLAGSHIP SPORTS SAAS) -->
+          <div class="product-compact-card product-card-auctionhat" id="auctionhat">
+            <div>
+              <div class="product-card-top">
+                <div class="product-identity">
+                  <div class="product-brand-icon ah-icon">AH</div>
+                  <div>
+                    <span class="product-type-badge ah-badge">Flagship Sports SaaS</span>
+                    <h3 class="product-name">Auctionhat <span class="ah-sub">– The Player Auction</span></h3>
+                  </div>
+                </div>
+                <div class="product-live-pill ah-live-pill">
+                  <span class="live-pulse"></span>
+                  <span>Live Engine</span>
+                </div>
+              </div>
+
+              <div class="product-compact-punchline ah-punchline">
+                Simplifying Player Auctions. Powering Sports Tournaments.
+              </div>
+
+              <p class="product-compact-desc">
+                Cloud-based player auction software built for cricket, football, volleyball, kabaddi & sports leagues. Organizers manage real-time live bidding, multi-screen tournament sync, and YouTube live broadcast overlays.
+              </p>
+
+              <!-- Sleek Compact Simulation Widget -->
+              <div class="mini-mockup-widget ah-mini-widget">
+                <div class="mini-widget-header">
+                  <div class="mini-widget-title">
+                    <span class="dot-gold"></span>
+                    <span>Auctionhat Engine 4.0</span>
+                  </div>
+                  <div class="mini-widget-tag">Multi-Screen Live</div>
+                </div>
+                <div class="mini-widget-body">
+                  <div class="mini-stat">
+                    <span class="stat-lbl">Current Bid</span>
+                    <span class="stat-num text-gold">₹ 4,50,000</span>
+                  </div>
+                  <div class="mini-stat">
+                    <span class="stat-lbl">Leading Team</span>
+                    <span class="stat-val">Surat Titans</span>
+                  </div>
+                </div>
+                <div class="mini-widget-footer">
+                  <span>🔴 YouTube Live Overlays</span>
+                  <span>🏏 Multi-Sport Auctions</span>
+                </div>
+              </div>
+
+              <!-- Feature Pills -->
+              <div class="product-feature-tags">
+                <span class="p-tag">⚡ Live Real-Time Bidding</span>
+                <span class="p-tag">📋 Player Registrations</span>
+                <span class="p-tag">🖥️ Multi-Screen Displays</span>
+                <span class="p-tag">📊 Team Budget Reports</span>
+                <span class="p-tag">🏆 Sponsor Highlights</span>
+              </div>
+            </div>
+
+            <!-- Card Actions -->
+            <div class="product-card-actions">
+              <a href="https://auctionhat.com/" target="_blank" rel="noopener noreferrer" class="btn btn-gold btn-sm" id="exploreAuctionhatBtn">
+                <span>Explore Auctionhat</span>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+              </a>
+              <a href="https://auctionhat.com/" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm" id="visitAuctionhatLink">
+                <span>auctionhat.com ↗</span>
+              </a>
+            </div>
+          </div>
+
+          <!-- RIGHT CARD: INVOICEHAT (DIGITAL INVOICING & BILLING SAAS) -->
+          <div class="product-compact-card product-card-invoicehat" id="invoicehat">
+            <div>
+              <div class="product-card-top">
+                <div class="product-identity">
+                  <div class="product-brand-icon ih-icon">IH</div>
+                  <div>
+                    <span class="product-type-badge ih-badge">Cloud Billing & Invoicing</span>
+                    <h3 class="product-name">Invoicehat <span class="ih-sub">– Digital Billing</span></h3>
+                  </div>
+                </div>
+                <div class="product-live-pill ih-live-pill">
+                  <span class="live-pulse pulse-emerald"></span>
+                  <span>Cloud Billing</span>
+                </div>
+              </div>
+
+              <div class="product-compact-punchline ih-punchline">
+                Fast, Simple & Professional Invoicing for Growing Businesses.
+              </div>
+
+              <p class="product-compact-desc">
+                Lightweight cloud invoicing platform engineered for freelancers, agencies, and small businesses to create professional GST/non-GST invoices, track customer balances, and share invoices instantly via WhatsApp.
+              </p>
+
+              <!-- Sleek Compact Simulation Widget -->
+              <div class="mini-mockup-widget ih-mini-widget">
+                <div class="mini-widget-header">
+                  <div class="mini-widget-title">
+                    <span class="dot-emerald"></span>
+                    <span>Invoicehat Cloud 2.0</span>
+                  </div>
+                  <div class="mini-widget-tag tag-emerald">● Paid & Sent</div>
+                </div>
+                <div class="mini-widget-body">
+                  <div class="mini-stat">
+                    <span class="stat-lbl">Invoice Total (INV-2026-084)</span>
+                    <span class="stat-num text-emerald">₹ 48,500</span>
+                  </div>
+                  <div class="mini-stat">
+                    <span class="stat-lbl">Billed To</span>
+                    <span class="stat-val">Vertex Digital Labs</span>
+                  </div>
+                </div>
+                <div class="mini-widget-footer">
+                  <span>📄 Instant PDF Downloads</span>
+                  <span>💬 Direct WhatsApp Sharing</span>
+                </div>
+              </div>
+
+              <!-- Feature Pills -->
+              <div class="product-feature-tags">
+                <span class="p-tag">🧾 GST & Non-GST Billing</span>
+                <span class="p-tag">👥 Client Directory</span>
+                <span class="p-tag">📥 1-Click PDF Invoices</span>
+                <span class="p-tag">💬 WhatsApp Sharing</span>
+                <span class="p-tag">🔒 4-Digit PIN Security</span>
+              </div>
+            </div>
+
+            <!-- Card Actions -->
+            <div class="product-card-actions">
+              <a href="https://invoicehat.fhtech.in/login" target="_blank" rel="noopener noreferrer" class="btn btn-emerald btn-sm" id="exploreInvoicehatBtn">
+                <span>Explore Invoicehat</span>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+              </a>
+              <a href="https://invoicehat.fhtech.in/login" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm" id="visitInvoicehatLink">
+                <span>Sign In / Portal ↗</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         PORTFOLIO & ACTIVE CLIENTS SECTION
+         ====================================================================== -->
+    <section class="section portfolio" id="portfolio">
+      <div class="container">
+        <div class="section-header">
+          <div class="badge">Our Work & Active Clients</div>
+          <h2 class="section-title">
+            Building Digital Experiences That <span class="gradient-text">Make a Difference</span>
+          </h2>
+          <p class="section-subtitle">
+            We are proud to work with businesses, professionals and organizations across different industries. Here are some of our active client projects.
+          </p>
+        </div>
+
+        <!-- Filter tabs -->
+        <div class="portfolio-filter-bar">
+          <button class="filter-btn active" data-filter="all">All Projects</button>
+          <button class="filter-btn" data-filter="healthcare">Healthcare & Medical</button>
+          <button class="filter-btn" data-filter="retail">Retail & E-commerce</button>
+          <button class="filter-btn" data-filter="community">Social & Community</button>
+          <button class="filter-btn" data-filter="education">Education & Guidance</button>
+        </div>
+
+        <!-- Portfolio Cards Grid -->
+        <div class="portfolio-grid">
+          <!-- 1. Dr. Maulik Jariwala – Hand Surgery Surat -->
+          <div class="portfolio-card" data-category="healthcare" id="client-dr-maulik">
+            <div class="portfolio-preview preview-medical">
+              <div class="browser-bar">
+                <span class="browser-dot red"></span>
+                <span class="browser-dot yellow"></span>
+                <span class="browser-dot green"></span>
+                <span class="browser-url-pill">handsurgerysurat.com</span>
+                <span class="browser-secure-badge"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C9.243 2 7 4.243 7 7v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7c0-2.757-2.243-5-5-5zm-3 8V7c0-1.654 1.346-3 3-3s3 1.346 3 3v3H9z"/></svg> SSL</span>
+              </div>
+              <div class="portfolio-visual-content">
+                <div class="client-emblem-wrap">
+                  <div class="client-emblem emblem-medical">
+                    <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+                    </svg>
+                  </div>
+                  <div class="client-preview-badge">Specialist Hand Care Portal</div>
+                </div>
+                <div class="preview-mini-pills">
+                  <span class="mini-pill">👨‍⚕️ Clinical Treatments</span>
+                  <span class="mini-pill">📅 Online Consultation</span>
+                </div>
+              </div>
+            </div>
+            <div class="portfolio-body">
+              <span class="portfolio-industry-tag">Healthcare & Medical Services</span>
+              <h3 class="portfolio-client-name">Dr. Maulik Jariwala – Hand Surgery Surat</h3>
+              <p class="portfolio-desc">
+                Professional online presence for Dr. Maulik Jariwala, Hand Surgery Specialist, Surat. Equipped with specialist profiles, clinical treatments, patient guides, and consultation booking.
+              </p>
+              <div class="portfolio-action-row">
+                <div class="status-indicator">
+                  <span class="status-dot"></span>
+                  <span>Active Online</span>
+                </div>
+                <a href="https://handsurgerysurat.com/" target="_blank" rel="noopener noreferrer" class="visit-link">
+                  <span>Visit Website</span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- 2. Bhagwan Patang Bhandar -->
+          <div class="portfolio-card" data-category="retail" id="client-bhagwan-patang">
+            <div class="portfolio-preview preview-retail">
+              <div class="browser-bar">
+                <span class="browser-dot red"></span>
+                <span class="browser-dot yellow"></span>
+                <span class="browser-dot green"></span>
+                <span class="browser-url-pill">bhagwanpatangbhandar.com</span>
+                <span class="browser-secure-badge"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C9.243 2 7 4.243 7 7v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7c0-2.757-2.243-5-5-5zm-3 8V7c0-1.654 1.346-3 3-3s3 1.346 3 3v3H9z"/></svg> SSL</span>
+              </div>
+              <div class="portfolio-visual-content">
+                <div class="client-emblem-wrap">
+                  <div class="client-emblem emblem-retail">
+                    <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path>
+                      <line x1="3" y1="6" x2="21" y2="6"></line>
+                      <path d="M16 10a4 4 0 0 1-8 0"></path>
+                    </svg>
+                  </div>
+                  <div class="client-preview-badge">Heritage Kite & Manja Showcase</div>
+                </div>
+                <div class="preview-mini-pills">
+                  <span class="mini-pill">🪁 Surti Manja Catalog</span>
+                  <span class="mini-pill">✨ Festival Enquiries</span>
+                </div>
+              </div>
+            </div>
+            <div class="portfolio-body">
+              <span class="portfolio-industry-tag">Retail & E-commerce</span>
+              <h3 class="portfolio-client-name">Bhagwan Patang Bhandar</h3>
+              <p class="portfolio-desc">
+                Online presence for Surti Manja, traditional kites, and kite festival products in Surat. Featuring interactive product showcases, customer inquiries, and heritage retail catalog.
+              </p>
+              <div class="portfolio-action-row">
+                <div class="status-indicator">
+                  <span class="status-dot"></span>
+                  <span>Active Online</span>
+                </div>
+                <a href="https://bhagwanpatangbhandar.com/" target="_blank" rel="noopener noreferrer" class="visit-link">
+                  <span>Visit Website</span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- 3. Surat Manav Seva Sangh – Chhanyado -->
+          <div class="portfolio-card" data-category="community" id="client-chhanyado">
+            <div class="portfolio-preview preview-community">
+              <div class="browser-bar">
+                <span class="browser-dot red"></span>
+                <span class="browser-dot yellow"></span>
+                <span class="browser-dot green"></span>
+                <span class="browser-url-pill">chhanyado.org</span>
+                <span class="browser-secure-badge"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C9.243 2 7 4.243 7 7v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7c0-2.757-2.243-5-5-5zm-3 8V7c0-1.654 1.346-3 3-3s3 1.346 3 3v3H9z"/></svg> SSL</span>
+              </div>
+              <div class="portfolio-visual-content">
+                <div class="client-emblem-wrap">
+                  <div class="client-emblem emblem-community">
+                    <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                  </div>
+                  <div class="client-preview-badge">Humanitarian & Social Platform</div>
+                </div>
+                <div class="preview-mini-pills">
+                  <span class="mini-pill">🤝 Elder Care & Relief</span>
+                  <span class="mini-pill">❤️ Community Outreach</span>
+                </div>
+              </div>
+            </div>
+            <div class="portfolio-body">
+              <span class="portfolio-industry-tag">Social Service & Community Organization</span>
+              <h3 class="portfolio-client-name">Surat Manav Seva Sangh – Chhanyado</h3>
+              <p class="portfolio-desc">
+                Digital platform for Surat Manav Seva Sangh – Chhanyado, supporting social initiatives, humanitarian services, community outreach, activities, and donor communication in Surat.
+              </p>
+              <div class="portfolio-action-row">
+                <div class="status-indicator">
+                  <span class="status-dot"></span>
+                  <span>Active Online</span>
+                </div>
+                <a href="https://chhanyado.org/" target="_blank" rel="noopener noreferrer" class="visit-link">
+                  <span>Visit Website</span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- 4. Dr. Anshul Mel – DrMel Dental -->
+          <div class="portfolio-card" data-category="healthcare" id="client-dr-mel">
+            <div class="portfolio-preview preview-dental">
+              <div class="browser-bar">
+                <span class="browser-dot red"></span>
+                <span class="browser-dot yellow"></span>
+                <span class="browser-dot green"></span>
+                <span class="browser-url-pill">drmel-dental.com</span>
+                <span class="browser-secure-badge"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C9.243 2 7 4.243 7 7v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7c0-2.757-2.243-5-5-5zm-3 8V7c0-1.654 1.346-3 3-3s3 1.346 3 3v3H9z"/></svg> SSL</span>
+              </div>
+              <div class="portfolio-visual-content">
+                <div class="client-emblem-wrap">
+                  <div class="client-emblem emblem-dental">
+                    <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <circle cx="12" cy="12" r="10"></circle>
+                      <path d="M8 14s1.5 2 4 2 4-2 4-2"></path>
+                      <line x1="9" y1="9" x2="9.01" y2="9"></line>
+                      <line x1="15" y1="9" x2="15.01" y2="9"></line>
+                    </svg>
+                  </div>
+                  <div class="client-preview-badge">Advanced Dental Care & Aesthetics</div>
+                </div>
+                <div class="preview-mini-pills">
+                  <span class="mini-pill">🦷 Smile Treatments</span>
+                  <span class="mini-pill">🕒 Quick Clinic Booking</span>
+                </div>
+              </div>
+            </div>
+            <div class="portfolio-body">
+              <span class="portfolio-industry-tag">Healthcare & Dental Services</span>
+              <h3 class="portfolio-client-name">Dr. Anshul Mel – DrMel Dental</h3>
+              <p class="portfolio-desc">
+                Professional dental healthcare website for Dr. Anshul Mel, Surat. Features dental procedure information, hygiene tips, clinic timings, and convenient appointment request channels.
+              </p>
+              <div class="portfolio-action-row">
+                <div class="status-indicator">
+                  <span class="status-dot"></span>
+                  <span>Active Online</span>
+                </div>
+                <a href="https://drmel-dental.com/" target="_blank" rel="noopener noreferrer" class="visit-link">
+                  <span>Visit Website</span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- 5. Columbus Evolve -->
+          <div class="portfolio-card" data-category="education" id="client-columbus-evolve">
+            <div class="portfolio-preview preview-education">
+              <div class="browser-bar">
+                <span class="browser-dot red"></span>
+                <span class="browser-dot yellow"></span>
+                <span class="browser-dot green"></span>
+                <span class="browser-url-pill">columbusevolve.com</span>
+                <span class="browser-secure-badge"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C9.243 2 7 4.243 7 7v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7c0-2.757-2.243-5-5-5zm-3 8V7c0-1.654 1.346-3 3-3s3 1.346 3 3v3H9z"/></svg> SSL</span>
+              </div>
+              <div class="portfolio-visual-content">
+                <div class="client-emblem-wrap">
+                  <div class="client-emblem emblem-education">
+                    <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M22 10v6M2 10l10-5 10 5-10 5z"></path>
+                      <path d="M6 12v5c3 3 9 3 12 0v-5"></path>
+                    </svg>
+                  </div>
+                  <div class="client-preview-badge">Overseas Education & Admissions</div>
+                </div>
+                <div class="preview-mini-pills">
+                  <span class="mini-pill">🎓 Global Universities</span>
+                  <span class="mini-pill">✈️ Visa & Test Prep</span>
+                </div>
+              </div>
+            </div>
+            <div class="portfolio-body">
+              <span class="portfolio-industry-tag">Education & Overseas Studies</span>
+              <h3 class="portfolio-client-name">Columbus Evolve</h3>
+              <p class="portfolio-desc">
+                Digital presence for an organization helping students prepare for overseas education and study-abroad opportunities. Guidance for global university admissions, visas, and test prep.
+              </p>
+              <div class="portfolio-action-row">
+                <div class="status-indicator">
+                  <span class="status-dot"></span>
+                  <span>Active Online</span>
+                </div>
+                <a href="https://columbusevolve.com/" target="_blank" rel="noopener noreferrer" class="visit-link">
+                  <span>Visit Website</span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- 6. Future Finder -->
+          <div class="portfolio-card" data-category="education" id="client-future-finder">
+            <div class="portfolio-preview preview-career">
+              <div class="browser-bar">
+                <span class="browser-dot red"></span>
+                <span class="browser-dot yellow"></span>
+                <span class="browser-dot green"></span>
+                <span class="browser-url-pill">futurefinder.in</span>
+                <span class="browser-secure-badge"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C9.243 2 7 4.243 7 7v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7c0-2.757-2.243-5-5-5zm-3 8V7c0-1.654 1.346-3 3-3s3 1.346 3 3v3H9z"/></svg> SSL</span>
+              </div>
+              <div class="portfolio-visual-content">
+                <div class="client-emblem-wrap">
+                  <div class="client-emblem emblem-career">
+                    <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <circle cx="12" cy="12" r="10"></circle>
+                      <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+                    </svg>
+                  </div>
+                  <div class="client-preview-badge">Psychometric Career Discovery</div>
+                </div>
+                <div class="preview-mini-pills">
+                  <span class="mini-pill">🧭 Career Assessment</span>
+                  <span class="mini-pill">🎯 Expert Coaching</span>
+                </div>
+              </div>
+            </div>
+            <div class="portfolio-body">
+              <span class="portfolio-industry-tag">Career Guidance & Education</span>
+              <h3 class="portfolio-client-name">Future Finder</h3>
+              <p class="portfolio-desc">
+                Digital platform offering psychometric testing and coaching services to help individuals explore their potential and make informed career decisions with clarity.
+              </p>
+              <div class="portfolio-action-row">
+                <div class="status-indicator">
+                  <span class="status-dot"></span>
+                  <span>Active Online</span>
+                </div>
+                <a href="https://futurefinder.in/" target="_blank" rel="noopener noreferrer" class="visit-link">
+                  <span>Visit Website</span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         WHY CHOOSE FUTUREHAT TECHNOSYS (WHY US)
+         ====================================================================== -->
+    <section class="section why-us" id="why-us">
+      <div class="container">
+        <div class="section-header">
+          <div class="badge">Why Choose Futurehat Technosys</div>
+          <h2 class="section-title">
+            Your Ideas. Our Technology. <span class="gradient-text">Shared Success.</span>
+          </h2>
+          <p class="section-subtitle">
+            We focus on engineering solutions that solve genuine business problems rather than just writing code.
+          </p>
+        </div>
+
+        <div class="why-us-grid">
+          <div class="why-card">
+            <div class="why-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></svg>
+            </div>
+            <h3 class="why-title">Business-Focused Solutions</h3>
+            <p class="why-desc">
+              We deeply understand your business requirements, operational flows, and customer journey before proposing and developing the right technical solution.
+            </p>
+          </div>
+
+          <div class="why-card">
+            <div class="why-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>
+            </div>
+            <h3 class="why-title">Customized Development</h3>
+            <p class="why-desc">
+              Every business is unique. We never force generic one-size-fits-all templates; we build modular, custom solutions shaped specifically according to your goals.
+            </p>
+          </div>
+
+          <div class="why-card">
+            <div class="why-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+            </div>
+            <h3 class="why-title">Modern Technology</h3>
+            <p class="why-desc">
+              We use modern development approaches, responsive frameworks, secure database patterns, and robust cloud configurations to build agile, ultra-fast digital products.
+            </p>
+          </div>
+
+          <div class="why-card">
+            <div class="why-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+            </div>
+            <h3 class="why-title">End-to-End Support</h3>
+            <p class="why-desc">
+              From early conceptualization, research, and UI/UX design to agile development, rigorous QA testing, server deployment, and post-launch maintenance.
+            </p>
+          </div>
+
+          <div class="why-card span-2">
+            <div class="why-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+            </div>
+            <h3 class="why-title">Long-Term Partnership</h3>
+            <p class="why-desc">
+              We believe in building lasting relationships through dependable technology, open transparency, and continuous technical support as your business scales across India and beyond.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         OUR APPROACH (5 DEVELOPMENT STEPS)
+         ====================================================================== -->
+    <section class="section process" id="process">
+      <div class="container">
+        <div class="section-header">
+          <div class="badge">Our Approach</div>
+          <h2 class="section-title">
+            From Idea to <span class="gradient-text">Implementation</span>
+          </h2>
+          <p class="section-subtitle">
+            A structured, transparent 5-step methodology that guarantees predictable delivery and exceptional quality.
+          </p>
+        </div>
+
+        <div class="process-timeline">
+          <div class="process-card">
+            <div class="process-step-num">01</div>
+            <h3 class="process-title">Understand</h3>
+            <p class="process-desc">We listen deeply to your business vision, user personas, operational hurdles, and commercial goals.</p>
+          </div>
+
+          <div class="process-card">
+            <div class="process-step-num">02</div>
+            <h3 class="process-title">Plan & Design</h3>
+            <p class="process-desc">We formulate architecture, design intuitive UI/UX wireframes, and outline the technical roadmap.</p>
+          </div>
+
+          <div class="process-card">
+            <div class="process-step-num">03</div>
+            <h3 class="process-title">Develop</h3>
+            <p class="process-desc">We transform blueprints into responsive code, clean APIs, secure databases, and intelligent modules.</p>
+          </div>
+
+          <div class="process-card">
+            <div class="process-step-num">04</div>
+            <h3 class="process-title">Launch</h3>
+            <p class="process-desc">We execute rigorous QA testing, secure SSL setup, cloud deployment, and live verification.</p>
+          </div>
+
+          <div class="process-card">
+            <div class="process-step-num">05</div>
+            <h3 class="process-title">Support & Grow</h3>
+            <p class="process-desc">We provide continuous monitoring, performance tuning, and feature improvements as your enterprise scales.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         CONTACT & CONSULTATION SECTION
+         ====================================================================== -->
+    <section class="section contact-section" id="contact">
+      <div class="container">
+        <div class="contact-unified-card">
+          <!-- Top Ambient Glow Accents -->
+          <div class="unified-card-glow-left"></div>
+          <div class="unified-card-glow-right"></div>
+
+          <!-- Header Section -->
+          <div class="unified-card-header">
+            <div class="unified-badge-row">
+              <span class="badge badge-emerald">
+                <span class="status-pulse-dot"></span>
+                Active & Ready to Chat
+              </span>
+              <span class="badge badge-indigo">Direct Project Consultation</span>
+            </div>
+            <h2 class="unified-card-title">
+              Let's Build Something <span class="gradient-text">Great Together!</span>
+            </h2>
+            <p class="unified-card-subtitle">
+              Have a business idea, need a dependable technology partner, or looking to build customized software? Skip the waiting queues—connect directly with our senior development team for instant project scope review, architecture advice, and customized proposals.
+            </p>
+          </div>
+
+          <!-- Value Pillars / Trust Highlights (3 Columns) -->
+          <div class="unified-pillars-grid">
+            <div class="unified-pillar-card">
+              <div class="pillar-icon-box">⚡</div>
+              <div class="pillar-content">
+                <h4 class="pillar-heading">Instant Dev Response</h4>
+                <p class="pillar-text">Chat directly with core developers and software architects, not automated sales bots.</p>
+              </div>
+            </div>
+
+            <div class="unified-pillar-card">
+              <div class="pillar-icon-box">📋</div>
+              <div class="pillar-content">
+                <h4 class="pillar-heading">Free Scope & Estimation</h4>
+                <p class="pillar-text">Receive structured project scope breakdown, technical milestones, and transparent cost estimates.</p>
+              </div>
+            </div>
+
+            <div class="unified-pillar-card">
+              <div class="pillar-icon-box">🔒</div>
+              <div class="pillar-content">
+                <h4 class="pillar-heading">100% Confidential NDA</h4>
+                <p class="pillar-text">Your commercial ideas, business logic, and intellectual property are completely protected.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- High-Impact Direct Actions -->
+          <div class="unified-card-actions">
+            <a href="https://wa.me/919409686228?text=Hello%20Futurehat%20Technosys,%20I%20would%20like%20to%20discuss%20a%20digital%20project." target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp btn-xl unified-main-btn" id="mainWhatsAppBtn">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+              </svg>
+              <span>Chat on WhatsApp</span>
+            </a>
+            <a href="tel:+919409686228" class="btn btn-secondary btn-xl unified-call-btn" id="contactDirectCall">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+              <span>Call: +91 94096 86228</span>
+            </a>
+          </div>
+
+          <!-- Bottom Channels & Details Bar -->
+          <div class="unified-channels-bar">
+            <div class="unified-channel-pill">
+              <span class="pill-icon">📍</span>
+              <div class="pill-meta">
+                <span class="pill-label">Headquarters</span>
+                <span class="pill-val">Surat, Gujarat, India</span>
+              </div>
+            </div>
+
+
+            <div class="unified-channel-pill">
+              <span class="pill-icon">✉️</span>
+              <div class="pill-meta">
+                <span class="pill-label">Email Us</span>
+                <a href="mailto:futurehattechnosys@gmail.com" class="pill-val">futurehattechnosys@gmail.com</a>
+              </div>
+            </div>
+
+            <div class="unified-channel-pill">
+              <span class="pill-icon">🌐</span>
+              <div class="pill-meta">
+                <span class="pill-label">Official Website</span>
+                <a href="https://fhtech.in/" target="_blank" rel="noopener noreferrer" class="pill-val">fhtech.in</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ========================================================================
+       FOOTER
+       ======================================================================== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <!-- Brand Info -->
+        <div class="footer-brand">
+          <a href="#hero" class="logo-wrapper" aria-label="Futurehat Technosys Home">
+            <img src="assets/images/logo-white.png" alt="Futurehat Technosys Logo" class="brand-logo-img" id="footerBrandLogo" width="200" height="72">
+          </a>
+          <p class="brand-bio">
+            Turning Ideas Into Digital Solutions. Your Technology Partner for Web, Software, Cloud & AI Solutions in Surat, Gujarat, India.
+          </p>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+            <span>Surat, Gujarat, India</span>
+          </div>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+            <a href="tel:+919409686228">+91 94096 86228</a>
+          </div>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+            <a href="mailto:futurehattechnosys@gmail.com">futurehattechnosys@gmail.com</a>
+          </div>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="footer-col">
+          <h4 class="footer-col-title">Navigation</h4>
+          <div class="footer-links">
+            <a href="#hero" class="footer-link">Home</a>
+            <a href="#about" class="footer-link">About Company</a>
+            <a href="#services" class="footer-link">Our Services</a>
+            <a href="#portfolio" class="footer-link">Client Portfolio</a>
+            <a href="#products" class="footer-link">SaaS Products</a>
+            <a href="#why-us" class="footer-link">Why Choose Us</a>
+            <a href="#process" class="footer-link">Development Process</a>
+            <a href="#contact" class="footer-link">Contact & Enquiry</a>
+          </div>
+        </div>
+
+        <!-- Services -->
+        <div class="footer-col">
+          <h4 class="footer-col-title">Services</h4>
+          <div class="footer-links">
+            <a href="#services" class="footer-link">Website Development</a>
+            <a href="#services" class="footer-link">Website Design & UI/UX</a>
+            <a href="#services" class="footer-link">Custom Software (CRM/ERP)</a>
+            <a href="#services" class="footer-link">Web Applications & APIs</a>
+            <a href="#services" class="footer-link">Cloud Solutions & Hosting</a>
+            <a href="#services" class="footer-link">AI & Process Automation</a>
+          </div>
+        </div>
+
+        <!-- Featured Projects & Product -->
+        <div class="footer-col">
+          <h4 class="footer-col-title">Active Projects</h4>
+          <div class="footer-links">
+            <a href="https://auctionhat.com/" target="_blank" rel="noopener noreferrer" class="footer-link" style="color:#fbbf24; font-weight:600;">⚡ Auctionhat (Sports SaaS)</a>
+            <a href="https://invoicehat.fhtech.in/login" target="_blank" rel="noopener noreferrer" class="footer-link" style="color:#34d399; font-weight:600;">🧾 Invoicehat (Billing SaaS)</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer Bottom -->
+      <div class="footer-bottom">
+        <div class="footer-copy">
+          &copy; <?php echo date('Y'); ?> Futurehat Technosys. All Rights Reserved.
+        </div>
+        <div class="footer-legal-links">
+          <a href="terms-and-conditions.php" class="footer-legal-link">Terms & Conditions</a>
+          <a href="privacy-policy.php" class="footer-legal-link">Privacy Policy</a>
+          <a href="refund-policy.php" class="footer-legal-link">Refund Policy</a>
+        </div>
+        <div class="footer-motto">
+          Design. Develop. Innovate. Grow.
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ========================================================================
+       FLOATING ACTIONS (WhatsApp & Back To Top)
+       ======================================================================== -->
+  <div class="floating-widgets">
+    <a href="https://wa.me/919409686228?text=Hello%20Futurehat%20Technosys,%20I%20would%20like%20to%20discuss%20a%20digital%20project." target="_blank" rel="noopener noreferrer" class="floating-btn floating-whatsapp" id="floatingWhatsAppBtn" aria-label="Direct WhatsApp Message">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+      </svg>
+    </a>
+
+    <button class="floating-btn back-to-top" id="backToTop" aria-label="Back to Top">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <polyline points="18 15 12 9 6 15"></polyline>
+      </svg>
+    </button>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="js/main.js"></script>
+</body>
+</html>

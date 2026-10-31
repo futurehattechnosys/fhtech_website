@@ -1,0 +1,21 @@
+{
+  "name": "Futurehat Technosys",
+  "short_name": "Futurehat",
+  "description": "Turning Ideas Into Digital Solutions | Web, Software, Cloud & AI Solutions in Surat, Gujarat",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "assets/images/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/logo-color.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
